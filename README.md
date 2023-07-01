@@ -4,3 +4,5 @@ Buku tutorial yang dirancang untuk membantu pembaca pemula menguasai pembuatan w
 Buku ini membahas bagaimana cara penggunaan Git dan GitHub,mulai dari pengenalan Git dan GitHub sampai perintah-perintah yang di gunakan dalam Git.Serta digunakan dalam pembutan website.Pembaca akan diperkenalkan pada dasar-dasar HTML,Bootstrap dan Golang API.
 
 ![cover](https://github.com/mhrndiva/Dasar_pembuatan_web_Github_pages_Golang/assets/114634917/1c752986-5a53-4490-9bed-7d104e0ae518)
+
+# Tentang penulis
