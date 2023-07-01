@@ -12,4 +12,5 @@ Devi Wulandari
 lahir di kota Tegal pada tanggal 12 Mei 2003. Pendidikan tingkat dasar hingga menengah di Tegal. Biasa dipanggil Devi anak kedau dari dua bersaudara dari seorang ayah bernama Tarwadi dan seorang ibu bernama Rumini. Memiliki hobi menonton film dibioskop maupun lewat aplikasi dan seorang pecinta kucing . Saat ini berusia 20. Saat ini menempuh pendidikan Program Studi Diploma 4 Teknik Informatika di Universitas Logistik & Bisnis Internasional di tingkat satu.
 
 Ariadiva Putri Bintang Maharani
+![Diva](https://github.com/mhrndiva/Dasar_pembuatan_web_Github_pages_Golang/assets/114634917/80b3b6dc-bc64-4f79-8b86-8bb2d4e6b429)
 Ariadiva Putri Bintang Maharani, lahir pada tanggal 26 Februari 2004. Menempuh pendidikan dari SD hingga SMA di Sumatera Barat. Merupakan anak dari ayah yang bernama Ari Kusnoto dan ibu yang bernama Despita Dewi dan merupakan anak pertama dari tiga bersaudara. Saat ini menempuh pendidikan pada Program Studi Diploma 4  Teknik Informatika di Universitas Logistik & Bisnis Internasional.
